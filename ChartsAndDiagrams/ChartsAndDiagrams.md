@@ -3,7 +3,7 @@
 ## System Diagram
 
 ### Basic Use Case Diagram
-![App basic use case diagram](/BasicUseCaseDiagram.png)
+![App basic use case diagram](BasicUseCaseDiagram.png)
 
 ### System Sequence Diagram Travel Diary
 ![System Sequence Diagram Travel Diary](/SystemSequenceDiagramTravelDiary.png)
