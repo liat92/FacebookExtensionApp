@@ -33,7 +33,7 @@ Users will also be shown a breakdown of the criteria used to select that person 
 ### Travel Diary
 ![Travel Diary](/Screenshots/TravelDiary.PNG)
 #### Example
-![Travel Diary example](/Screenshots/TravelDiary-1.PNG)
+![Travel Diary example](/Screenshots/TravelDiary-1.png)
 
 ### Soulmate Founder
 ![Soulmate Founder](/Screenshots/SoulmateFounder.PNG)
