@@ -6,7 +6,7 @@
 ![App basic use case diagram](BasicUseCaseDiagram.png)
 
 ### System Sequence Diagram Travel Diary
-![System Sequence Diagram Travel Diary](/SystemSequenceDiagramTravelDiary.png)
+![System Sequence Diagram Travel Diary](SystemSequenceDiagramTravelDiary.png)
 
 ## Design Patterns
 
@@ -16,7 +16,7 @@ Singleton :arrow_right: FacebookUser
 Client :arrow_right: FormMain         
 
 #### Sequence Diagram
-![System Sequence Diagram](/DesignPatterns/Singleton/SystemSequenceDiagram.png)
+![System Sequence Diagram](DesignPatterns/Singleton/SystemSequenceDiagram.png)
 
 #### Class Diagram
 ![Facebook User Class Diagram](/DesignPatterns/Singleton/FacebookUserClassDiagram.png)
